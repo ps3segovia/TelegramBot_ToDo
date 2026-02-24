@@ -1,0 +1,17 @@
+# Виртуальное окружение
+venv/
+.venv/
+env/
+
+# Секреты
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE
+.vscode/
+.idea/
